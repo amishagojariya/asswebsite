@@ -1,0 +1,109 @@
+@media(min-width:1100px){
+ header{
+    width: 1200px;
+ }
+ header .wrapper {
+    position: static;
+    flex-direction: row;
+    background-color: transparent;
+    opacity: 1;
+    visibility: visible;
+    display: flex;
+    gap: 90px;
+
+  }
+  .wrapper nav{
+   display: flex;
+   gap: 30px;
+  }
+
+  header nav {
+    flex-direction: row;
+  }
+ .main span{
+    display: none;
+ }
+ .class{
+   display: flex;
+   flex-direction: row;
+ }
+ .class1 {
+   object-fit: contain;
+   background-color: rgb(105, 170, 105);
+   border-radius: 5px;
+   color: white;
+  
+ 
+ }
+ 
+ header .abtn, .btn{
+  height: 60px;
+ 
+
+  margin-left: 5px;
+   display: inherit!important;
+  }
+  .img1 {
+   position: absolute;
+   left: 360px;
+}
+main {
+   width: 1200px;
+}
+.last h4 {
+   margin-left: 400px;
+}
+
+.icon {
+   margin-left: 430px;
+}
+article {
+   width: 1200px;
+}
+
+hr {
+   width: 1200px;
+}
+
+.img2 {
+
+   margin-left: 220px;
+   display: flex;
+   gap: 20px;
+   
+}
+.img2img1{
+   margin-top: 40px;   
+}
+.bttn{
+   margin-left: 160px;
+ }
+ .hide{
+   display: flex;
+ }
+.endcontent{
+  width: 100%;
+   display: flex;
+   flex-direction: column;
+    text-align: center;
+    margin-left: 400px;
+}
+.allprofile{
+   display: flex;
+ text-align: center;
+  margin-left: 350px;
+   width: 1200px;
+}
+.imglast{
+   width: 1200px;
+}
+.footer{
+   width: 1200px;
+   padding: 2px 120px;
+   gap: 50px;
+}
+.lasttopic{
+   width: 1200px;
+}
+
+}

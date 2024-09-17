@@ -1,0 +1,78 @@
+@media (min-width: 576px) {
+  header {
+    width: 600px;
+  }
+
+  .img1 {
+    position: absolute;
+    left: 60px;
+  }
+
+  main {
+    width: 600px;
+  }
+
+  .last h4 {
+    margin-left: 120px;
+  }
+
+  .icon {
+    margin-left: 140px;
+  }
+
+  article {
+    width: 600px;
+  }
+
+  hr {
+    width: 600px;
+  }
+
+  .img2 {
+    object-fit: cover;
+    margin-left: 130px;
+  }
+
+  .content2 h4 {
+    margin-left: 30px;
+  }
+
+  .content2 h3 {
+    margin-left: 200px;
+  }
+
+  .content2 p {
+    margin-left: 100px;
+  }
+  .abtn .abtn {
+    margin-right: 0px;
+    width: 0px;
+    padding: 0px;
+    color: white;
+  }
+  .btn {
+    width: 480px;
+    margin-left: 60px;
+  }
+
+  .end {
+    width: 600px;
+  }
+
+  .end h3 {
+    margin: 20px 145px;
+  }
+
+  .imglast {
+    width: 600px;
+  }
+
+  .imglast h2 {
+    margin: 30px 90px 10px 190px;
+  }
+
+  .footer {
+    width: 600px;
+  }
+
+}

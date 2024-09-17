@@ -1,0 +1,210 @@
+@media (min-width: 768px) {
+    header {
+        width: 800px;
+    }
+
+    .img1 {
+        position: absolute;
+        left: 150px;
+    }
+
+    main {
+        width: 800px;
+    }
+    .abtn .abtn {
+        margin-right: 0px;
+        width: 80px;
+        padding: 0px;
+        color: white;
+      }
+
+    .last h4 {
+        margin-left: 200px;
+    }
+
+    .icon {
+        margin-left: 220px;
+    }
+
+    article {
+        width: 800px;
+    }
+
+    hr {
+        width: 800px;
+    }
+
+    .img2 {
+        object-fit: cover;
+        margin-left: 220px;
+    }
+
+    
+    .show {
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+
+    }
+
+    .content2 img {
+        margin-left: 15px;
+    }
+
+    .content2 h3 {
+        margin-left: 10px;
+    }
+
+    .content2 p {
+        margin-left: 20px;
+    }
+
+    .work1 {
+        text-align: start;
+        margin-top: 20px;
+    }
+
+    .work2 {
+        text-align: start;
+        margin-top: 20px;
+
+    }
+
+    .work3 {
+        text-align: start;
+        margin-top: 20px;
+    }
+    .content2,.btn{
+        display: none;
+    }
+
+.graph2{
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: start;
+}
+.graphcontent p{
+   padding-left: 20px;
+}
+
+  
+  .graph2 h3 {
+    
+    text-align: start;
+  }
+  
+  .graph2 p {
+  
+    padding-left: 60px;
+    text-align: start;
+  }
+  .bttn{
+    margin-left: 90px;
+  }
+  .end{
+    margin-left: 120px;
+  }
+
+.allprofile{
+   
+    display: flex;
+    object-fit: contain;
+    text-align: start;
+    position: relative;
+    width: fit-content;
+    justify-items: center;
+    padding-left: 190px;
+   
+    
+}
+.hidden{
+    display: flex;
+   
+}
+.profile{
+    display: flex;
+   
+}
+.allprofile h5{
+ text-align: start;
+}
+.allprofile p{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1px;
+}
+.imglast{
+   display: flex;
+   flex-direction: row;
+   width: 800px;
+   height: 180px;
+   padding-left: 10px;
+  
+}
+.imglast h2{
+    margin-left: 10px;
+}
+.img2last{
+    display: flex;
+}
+.footerlast a{
+    display: flex;
+    text-decoration: none;
+    color: aliceblue;
+    margin-top: 20px;
+}
+.footerlast{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: start;
+    padding-left: 30px;
+}
+.span{
+   display: none;
+ 
+}
+.footer{
+    display: flex;
+    width: 800px;
+    height: 250px;
+   
+}
+.appinstall{
+    margin-left: 120px;
+}
+.install{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+}
+hr {
+    background-color: #1D2830;
+  
+    color: #aaa8a86e;
+
+  }
+.lasttopic{
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #1D2830;
+}
+  .lastline {
+    padding: 20px;
+
+   width: 800px;
+   color: white;
+
+  }
+  .lasticon{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    color: white;
+   margin: 20px 40px;
+    
+  }
+  
+}
